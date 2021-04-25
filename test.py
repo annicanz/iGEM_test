@@ -7,3 +7,6 @@ Created on Sun Apr 25 11:16:56 2021
 """
 
 print('test')
+
+a = 3
+print(a*3)
